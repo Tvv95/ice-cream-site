@@ -1,0 +1,24 @@
+body {
+    /* Обнуление по умолчанию */
+    margin: 0;
+    padding: 0;
+    
+    /*Стандартизированны шрифты и т.д.*/
+    font-family: ;
+    font-size: ;
+    line-height: ;
+    font-weight: ;
+    color: ;
+    text-transform: ;
+
+    /*Фон*/
+    background-color: ;
+    background-image: ;
+    background-position: ;
+    background-repeat: ;
+}
+
+    /*Убираем подчеркивание ссылок*/
+a {
+    text-decoration: none;
+}
