@@ -1,1 +1,1 @@
-# my-site
+# ice-cream site
